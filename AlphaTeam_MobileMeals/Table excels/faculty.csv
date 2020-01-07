@@ -1,0 +1,41 @@
+﻿facultyId,personId,title,degree,degreecollege
+1,31,Dr., History ,UNC-Charlotte 
+2,32,Ms., Science , NC State 
+3,33,Dr., Information Technology , UNC-Chapel Hill 
+4,34,Ms.,Computer Engineering , East Carolina University
+5,35,Mrs., Information Technology , East Carolina University
+6,36,Ms., Civil Engineering,UNC-Charlotte 
+7,37,Dr., Science ,UNC-Charlotte 
+8,38,Ms., Electrical Engineering , UNC-Chapel Hill 
+9,39,Mrs., Civil Engineering, NC State 
+10,40,Ms., Science , NC State 
+11,41,Mr., MBA , UNC-Chapel Hill 
+12,42,Mr., MBA ,UNC-Charlotte 
+13,43,Ms., Science , East Carolina University
+14,44,Mrs., Civil Engineering, NC State 
+15,45,Ms., Information Technology , East Carolina University
+16,46,Dr., Science ,UNC-Charlotte 
+17,47,Mrs., Science ,UNC-Charlotte 
+18,48,Mr., Civil Engineering, East Carolina University
+19,49,Ms.,Computer Engineering ,UNC-Charlotte 
+20,50,Mrs., Information Technology , NC State 
+21,51,Ms.,Computer Engineering , East Carolina University
+22,52,Ms., Civil Engineering,UNC-Charlotte 
+23,53,Mr., Information Technology ,UNC-Charlotte 
+24,54,Mrs., Civil Engineering, NC State 
+25,55,Ms., Science , UNC-Chapel Hill 
+26,56,Mr., Electrical Engineering ,UNC-Charlotte 
+27,57,Ms., MBA , NC State 
+28,58,Dr., Information Technology ,UNC-Charlotte 
+29,59,Mr., Civil Engineering,UNC-Charlotte 
+30,60,Dr., Science , East Carolina University
+31,61,Mr., Science , UNC-Chapel Hill 
+32,62,Mr., Civil Engineering, UNC-Chapel Hill 
+33,63,Ms., Information Technology , NC State 
+34,64,Mrs., History , UNC-Chapel Hill 
+35,65,Mr., Civil Engineering, NC State 
+36,66,Ms.,Computer Engineering , UNC-Chapel Hill 
+37,67,Mrs., MBA ,UNC-Charlotte 
+38,68,Mrs.,Computer Engineering , UNC-Chapel Hill 
+39,69,Mrs., History , NC State 
+40,70,Mrs.,Computer Engineering ,UNC-Charlotte 

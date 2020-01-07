@@ -1,0 +1,21 @@
+DROP TABLE `Staff`;
+
+CREATE TABLE `Staff` (
+  `id` mediumint(8) unsigned NOT NULL auto_increment,
+  `staffId` mediumint,
+  `personId` mediumint,
+  `title` varchar(255) default NULL,
+  `Isadmin` varchar(255) default NULL,
+  PRIMARY KEY (`id`)
+) AUTO_INCREMENT=1;
+
+INSERT INTO `Staff` (`staffId`,`personId`,`title`,`Isadmin`) VALUES (1,1,"Ms.","No"),(2,2,"Mr.","No"),(3,3,"Ms.","No"),(4,4,"","No"),(5,5,"Ms.","No"),(6,6,"","No"),(7,7,"Dr.","No"),(8,8,"Mrs.","Yes"),(9,9,"Mr.","No"),(10,10,"","No");
+INSERT INTO `Staff` (`staffId`,`personId`,`title`,`Isadmin`) VALUES (11,11,"Mr.","Yes"),(12,12,"Mrs.","No"),(13,13,"Mr.","No"),(14,14,"Dr.","Yes"),(15,15,"Dr.","Yes"),(16,16,"Mr.","Yes"),(17,17,"Ms.","No"),(18,18,"Ms.","No"),(19,19,"Dr.","No"),(20,20,"Mr.","Yes");
+INSERT INTO `Staff` (`staffId`,`personId`,`title`,`Isadmin`) VALUES (21,21,"Dr.","No"),(22,22,"Dr.","Yes"),(23,23,"Mr.","Yes"),(24,24,"Dr.","Yes"),(25,25,"Mr.","Yes"),(26,26,"Dr.","No"),(27,27,"Ms.","Yes"),(28,28,"Mrs.","Yes"),(29,29,"Ms.","No"),(30,30,"Mr.","Yes");
+INSERT INTO `Staff` (`staffId`,`personId`,`title`,`Isadmin`) VALUES (31,31,"Mrs.","Yes"),(32,32,"Dr.","Yes"),(33,33,"Mr.","Yes"),(34,34,"Mrs.","No"),(35,35,"Ms.","No"),(36,36,"Mrs.","Yes"),(37,37,"","Yes"),(38,38,"Mr.","Yes"),(39,39,"","No"),(40,40,"","No");
+INSERT INTO `Staff` (`staffId`,`personId`,`title`,`Isadmin`) VALUES (41,41,"Mrs.","Yes"),(42,42,"Mrs.","No"),(43,43,"Dr.","Yes"),(44,44,"Mrs.","No"),(45,45,"Mrs.","Yes"),(46,46,"","No"),(47,47,"","No"),(48,48,"Dr.","Yes"),(49,49,"","No"),(50,50,"Mr.","No");
+INSERT INTO `Staff` (`staffId`,`personId`,`title`,`Isadmin`) VALUES (51,51,"Mr.","No"),(52,52,"","No"),(53,53,"Dr.","No"),(54,54,"Dr.","No"),(55,55,"","No"),(56,56,"Dr.","Yes"),(57,57,"","No"),(58,58,"","Yes"),(59,59,"Mr.","No"),(60,60,"","Yes");
+INSERT INTO `Staff` (`staffId`,`personId`,`title`,`Isadmin`) VALUES (61,61,"Dr.","No"),(62,62,"Mr.","Yes"),(63,63,"Mr.","Yes"),(64,64,"","No"),(65,65,"Dr.","No"),(66,66,"Ms.","Yes"),(67,67,"Ms.","Yes"),(68,68,"Ms.","No"),(69,69,"","No"),(70,70,"Ms.","Yes");
+INSERT INTO `Staff` (`staffId`,`personId`,`title`,`Isadmin`) VALUES (71,71,"Ms.","No"),(72,72,"Ms.","Yes"),(73,73,"","No"),(74,74,"","No"),(75,75,"Mr.","Yes"),(76,76,"","No"),(77,77,"","No"),(78,78,"","No"),(79,79,"Dr.","Yes"),(80,80,"Mr.","No");
+INSERT INTO `Staff` (`staffId`,`personId`,`title`,`Isadmin`) VALUES (81,81,"Ms.","Yes"),(82,82,"Mr.","No"),(83,83,"Mrs.","Yes"),(84,84,"Mrs.","Yes"),(85,85,"","No"),(86,86,"Dr.","No"),(87,87,"","Yes"),(88,88,"Mr.","No"),(89,89,"Mrs.","Yes"),(90,90,"Dr.","Yes");
+INSERT INTO `Staff` (`staffId`,`personId`,`title`,`Isadmin`) VALUES (91,91,"","Yes"),(92,92,"Ms.","No"),(93,93,"","No"),(94,94,"Mr.","No"),(95,95,"Ms.","Yes"),(96,96,"","Yes"),(97,97,"","Yes"),(98,98,"","No"),(99,99,"Mrs.","No"),(100,100,"Ms.","No");

@@ -1,0 +1,31 @@
+﻿studentId,personId,gradyear,major,IsStudentDriver
+1,71,2021, Science ,No
+2,72,2024,Computer Engineering ,Yes
+3,73,2022, History ,Yes
+4,74,2018, Information Technology ,Yes
+5,75,2023, Information Technology ,Yes
+6,76,2025,Computer Engineering ,Yes
+7,77,2019, Science ,No
+8,78,2023, Civil Engineering,Yes
+9,79,2018, Electrical Engineering ,Yes
+10,80,2022,Computer Engineering ,No
+11,81,2018, Electrical Engineering ,No
+12,82,2024, History ,Yes
+13,83,2022, Civil Engineering,No
+14,84,2025, Information Technology ,Yes
+15,85,2023, MBA ,Yes
+16,86,2019, Information Technology ,No
+17,87,2022, History ,Yes
+18,88,2023, History ,No
+19,89,2019, MBA ,Yes
+20,90,2023, Electrical Engineering ,Yes
+21,91,2025, Electrical Engineering ,No
+22,92,2024, History ,Yes
+23,93,2018, Civil Engineering,Yes
+24,94,2020, MBA ,Yes
+25,95,2018, Civil Engineering,Yes
+26,96,2018, Science ,Yes
+27,97,2020, Electrical Engineering ,Yes
+28,98,2022, Civil Engineering,Yes
+29,99,2018, Science ,No
+30,100,2023, History ,Yes
